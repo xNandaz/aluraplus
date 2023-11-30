@@ -1,7 +1,7 @@
 # aluraplus
 Projeto Alura Plus 
 
-##Ferramentas Utilizadas:
+Ferramentas Utilizadas:
 * HTML
   
 * CSS
